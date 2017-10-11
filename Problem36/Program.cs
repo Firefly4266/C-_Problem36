@@ -10,6 +10,7 @@ namespace Problem36
     {
         static void Main(string[] args)
         {
+            Class36.Problem36();
         }
     }
 }
